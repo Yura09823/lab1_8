@@ -1,0 +1,7 @@
+﻿  Account.cpp
+C:\Users\Admin\source\repos\KURS2\lab1_8\lab1_8\Account.cpp(11,23): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\source\repos\KURS2\lab1_8\lab1_8\Account.cpp(60,14): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Admin\source\repos\KURS2\lab1_8\lab1_8\Account.cpp(61,14): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  lab1_8.cpp
+  Generating Code...
+  lab1_8.vcxproj -> C:\Users\Admin\source\repos\KURS2\lab1_8\x64\Debug\lab1_8.exe
